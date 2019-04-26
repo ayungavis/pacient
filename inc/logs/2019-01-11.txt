@@ -1,0 +1,3 @@
+Time : 02:42:43
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :jenis_perawatan, :jenis_poli, :alamat, :updated_by, :updated_date, :revision)

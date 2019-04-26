@@ -1,0 +1,10 @@
+<IfModule mod_rewrite.c>
+	RewriteEngine On
+	
+    RewriteCond %{REQUEST_FILENAME} !-d
+	RewriteCond %{REQUEST_FILENAME}.php -f
+    RewriteRule ^(.*)$ $1.php
+
+    ErrorDocument 404 http://localhost/pacient/404
+    ErrorDocument 500 http://localhost/pacient/500
+</IfModule>

@@ -1,0 +1,51 @@
+Time : 21:53:14
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :jenis_perawatan, :jenis_poli, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:46:02
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :jenis_perawatan, :jenis_poli, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:44:48
+SQLSTATE[HY093]: Invalid parameter number: parameter was not defined
+Raw SQL : INSERT INTO rawat_jalan (`id`, `log_date`, `identitas`, `nama_pasien`, `jenis_kelamin`, `agama`, `tanggal_lahir`, `usia`, `nomor_telepon`, `nama_kk`, `hubungan_keluarga`, `jenis_perawatan`, `jenis_poli`, `alamat`, `updated_by`, `updated_date`, `revision`) VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :jenis_perawatan, :jenis_poli, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:42:16
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:41:51
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:40:12
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:39:50
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:39:30
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:38:00
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:33:04
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:29:45
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:27:55
+SQLSTATE[21S01]: Insert value list does not match column list: 1136 Column count doesn't match value count at row 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision)
+
+Time : 21:27:15
+SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '' at line 1
+Raw SQL : INSERT INTO rawat_jalan VALUES (:id, :log_date, :identitas, :nama_pasien, :jenis_kelamin, :agama, :tanggal_lahir, :usia, :nomor_telepon, :kepala_keluarga, :hubungan_pasien, :alamat, :updated_by, :updated_date, :revision
