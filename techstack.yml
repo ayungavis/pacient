@@ -1,11 +1,11 @@
 repo_name: ayungavis/pacient
-report_id: cae4b91eebb9844eae439563cb7add1f
+report_id: 3fac7006c7d5c511bbfaec3247db386b
 repo_type: Public
-timestamp: '2023-11-24T02:07:28+00:00'
+timestamp: '2023-12-14T13:21:11+00:00'
 requested_by: ayungavis
 provider: github
 branch: master
-detected_tools_count: 7
+detected_tools_count: 9
 tools:
 - name: CSS 3
   description: The latest evolution of the Cascading Style Sheets language
@@ -57,6 +57,17 @@ tools:
   detection_source: database.sql
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
+- name: pgvector
+  description: Open-source vector similarity search for Postgres
+  website_url: https://github.com/pgvector/pgvector/
+  open_source: false
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Database Tools
+  image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source: inc/logs/2019-01-10.txt
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:36:30.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -73,5 +84,16 @@ tools:
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
   detection_source: css/icon_fonts/demo_icon_set_1.html
+  last_updated_by: ayungavis
+  last_updated_on: 2019-04-26 09:36:30.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source: inc/logs/2019-01-10.txt
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
