@@ -1,7 +1,8 @@
 repo_name: ayungavis/pacient
-report_id: 3fac7006c7d5c511bbfaec3247db386b
+report_id: cae4b91eebb9844eae439563cb7add1f
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:21:11+00:00'
+timestamp: '2024-01-05T08:34:08+00:00'
 requested_by: ayungavis
 provider: github
 branch: master
@@ -15,6 +16,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/ayungavis/pacient
   detection_source: Repo Metadata
 - name: Hack
   description: A programming language for HHVM that interoperates seamlessly with
@@ -25,6 +27,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1208/download.png
+  detection_source_url: https://github.com/ayungavis/pacient
   detection_source: Repo Metadata
 - name: JavaScript
   description: Lightweight, interpreted, object-oriented language with first-class
@@ -35,6 +38,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/ayungavis/pacient
   detection_source: Repo Metadata
 - name: PHP
   description: A popular general-purpose scripting language that is especially suited
@@ -45,6 +49,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/991/hwUcGZ41_400x400.jpg
+  detection_source_url: https://github.com/ayungavis/pacient
   detection_source: Repo Metadata
 - name: SQL
   description: It is a domain-specific language used in programming
@@ -54,6 +59,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/2271/default_068d33483bba6b81ee13fbd4dc7aab9780896a54.png
+  detection_source_url: https://github.com/ayungavis/pacient/blob/master/database.sql
   detection_source: database.sql
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
@@ -65,6 +71,7 @@ tools:
   category: Data Stores
   sub_category: Database Tools
   image_url: https://img.stackshare.io/service/109221/default_b888cdf5617d936aa6aacf130911906955508639.png
+  detection_source_url: https://github.com/ayungavis/pacient/blob/master/inc/logs/2019-01-10.txt
   detection_source: inc/logs/2019-01-10.txt
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
@@ -76,6 +83,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ayungavis/pacient
   detection_source: Repo Metadata
 - name: HTML
   description: Hypertext Markup Language for creating web pages.
@@ -83,6 +91,7 @@ tools:
   open_source: false
   hosted_saas: false
   image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source_url: https://github.com/ayungavis/pacient/blob/master/css/icon_fonts/demo_icon_set_1.html
   detection_source: css/icon_fonts/demo_icon_set_1.html
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
@@ -94,6 +103,7 @@ tools:
   category: Communications
   sub_category: Large Language Model Tools
   image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/ayungavis/pacient/blob/master/inc/logs/2019-01-10.txt
   detection_source: inc/logs/2019-01-10.txt
   last_updated_by: ayungavis
   last_updated_on: 2019-04-26 09:36:30.000000000 Z
